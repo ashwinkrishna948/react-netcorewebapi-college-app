@@ -1,0 +1,7 @@
+D:\collegeasp\collegewebapi\cwebapi\obj\Debug\net6.0\cwebapi.csproj.AssemblyReference.cache
+D:\collegeasp\collegewebapi\cwebapi\obj\Debug\net6.0\cwebapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\collegeasp\collegewebapi\cwebapi\obj\Debug\net6.0\cwebapi.AssemblyInfoInputs.cache
+D:\collegeasp\collegewebapi\cwebapi\obj\Debug\net6.0\cwebapi.AssemblyInfo.cs
+D:\collegeasp\collegewebapi\cwebapi\obj\Debug\net6.0\cwebapi.csproj.CoreCompileInputs.cache
+D:\collegeasp\collegewebapi\cwebapi\obj\Debug\net6.0\cwebapi.MvcApplicationPartsAssemblyInfo.cs
+D:\collegeasp\collegewebapi\cwebapi\obj\Debug\net6.0\cwebapi.MvcApplicationPartsAssemblyInfo.cache
